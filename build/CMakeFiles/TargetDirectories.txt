@@ -1,0 +1,13 @@
+/Users/muhametzanovdanis/sudoku/build/CMakeFiles/test.dir
+/Users/muhametzanovdanis/sudoku/build/CMakeFiles/edit_cache.dir
+/Users/muhametzanovdanis/sudoku/build/CMakeFiles/rebuild_cache.dir
+/Users/muhametzanovdanis/sudoku/build/external/doctest/CMakeFiles/doctest.dir
+/Users/muhametzanovdanis/sudoku/build/external/doctest/CMakeFiles/test.dir
+/Users/muhametzanovdanis/sudoku/build/external/doctest/CMakeFiles/edit_cache.dir
+/Users/muhametzanovdanis/sudoku/build/external/doctest/CMakeFiles/rebuild_cache.dir
+/Users/muhametzanovdanis/sudoku/build/src/CMakeFiles/sudoku-test.dir
+/Users/muhametzanovdanis/sudoku/build/src/CMakeFiles/cloud-test.dir
+/Users/muhametzanovdanis/sudoku/build/src/CMakeFiles/sudoku.dir
+/Users/muhametzanovdanis/sudoku/build/src/CMakeFiles/test.dir
+/Users/muhametzanovdanis/sudoku/build/src/CMakeFiles/edit_cache.dir
+/Users/muhametzanovdanis/sudoku/build/src/CMakeFiles/rebuild_cache.dir

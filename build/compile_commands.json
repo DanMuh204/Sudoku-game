@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/muhametzanovdanis/sudoku/build/external/doctest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/muhametzanovdanis/sudoku/external/doctest -O2 -g -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/doctest.dir/doctest.cpp.o -c /Users/muhametzanovdanis/sudoku/external/doctest/doctest.cpp",
+  "file": "/Users/muhametzanovdanis/sudoku/external/doctest/doctest.cpp",
+  "output": "external/doctest/CMakeFiles/doctest.dir/doctest.cpp.o"
+},
+{
+  "directory": "/Users/muhametzanovdanis/sudoku/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/muhametzanovdanis/sudoku/external/doctest -O2 -g -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o CMakeFiles/sudoku-test.dir/sudoku.cpp.o -c /Users/muhametzanovdanis/sudoku/src/sudoku.cpp",
+  "file": "/Users/muhametzanovdanis/sudoku/src/sudoku.cpp",
+  "output": "src/CMakeFiles/sudoku-test.dir/sudoku.cpp.o"
+},
+{
+  "directory": "/Users/muhametzanovdanis/sudoku/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/muhametzanovdanis/sudoku/external/doctest -O2 -g -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o CMakeFiles/sudoku-test.dir/sudoku_tests.cpp.o -c /Users/muhametzanovdanis/sudoku/src/sudoku_tests.cpp",
+  "file": "/Users/muhametzanovdanis/sudoku/src/sudoku_tests.cpp",
+  "output": "src/CMakeFiles/sudoku-test.dir/sudoku_tests.cpp.o"
+},
+{
+  "directory": "/Users/muhametzanovdanis/sudoku/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -O2 -g -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o CMakeFiles/sudoku.dir/main.cpp.o -c /Users/muhametzanovdanis/sudoku/src/main.cpp",
+  "file": "/Users/muhametzanovdanis/sudoku/src/main.cpp",
+  "output": "src/CMakeFiles/sudoku.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/muhametzanovdanis/sudoku/build/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -O2 -g -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -o CMakeFiles/sudoku.dir/sudoku.cpp.o -c /Users/muhametzanovdanis/sudoku/src/sudoku.cpp",
+  "file": "/Users/muhametzanovdanis/sudoku/src/sudoku.cpp",
+  "output": "src/CMakeFiles/sudoku.dir/sudoku.cpp.o"
+}
+]

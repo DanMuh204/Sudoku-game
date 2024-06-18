@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -O2 -g -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/sudoku-test.dir/sudoku.cpp.o" "CMakeFiles/sudoku-test.dir/sudoku_tests.cpp.o" -o sudoku-test  ../external/doctest/libdoctest.a
