@@ -63,7 +63,7 @@ bool isSafe(int board[N][N], int row, int col, int num) {
  * @param grid Игровое поле (карта).
  */
 void printBoard(int grid[N][N]) {
-  system("clear");
+  system("clear"); // На Windows поменять на "cls"
   std::cout << "\t\t\t<========================================================"
                "========================>"
             << std::endl;
