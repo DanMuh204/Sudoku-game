@@ -227,10 +227,9 @@ void playGame(int board[N][N]) {
 
     else if (row == -2 || col == -2 || num == -2) {
       std::string saveFilename;
-      std::cout << "Введите имя сохранённого файла: "; // Change this
+      std::cout << "Введите имя сохранённого файла: ";
       std::cin >> saveFilename;
-      saveBoard(board, "/Users/muhametzanovdanis/AiP/Sudoku/src/saves/" +
-                           saveFilename + ".txt");
+      saveBoard(board, "saves/" + saveFilename + ".txt");
       std::cout << "Игра сохранилась. Выход..." << std::endl;
       exit(0);
     }
